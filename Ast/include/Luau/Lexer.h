@@ -66,7 +66,6 @@ struct Lexeme
         // Class and stuff
         ReservedClass,
         ReservedConstruct,
-        ReservedExtend,
 
         // The rest of the syntaxes
         Reserved_BEGIN,
